@@ -124,7 +124,6 @@ The goal is not to collect commands: it is to build a repeatable diagnostic meth
 ## GitHub snapshot
 
 <p align="center">
-  <img src="https://img.shields.io/github/repos/Opperiesen?style=for-the-badge&label=Public%20repositories&color=2563eb" alt="Public repositories" />
   <img src="https://img.shields.io/github/stars/Opperiesen?style=for-the-badge&label=Stars&color=f59e0b" alt="Stars" />
   <img src="https://img.shields.io/github/commit-activity/y/Opperiesen/Branch?style=for-the-badge&label=Branch%20activity&color=14b8a6" alt="Branch yearly commit activity" />
   <img src="https://img.shields.io/github/last-commit/Opperiesen/Branch?style=for-the-badge&label=Branch%20updated&color=0f172a" alt="Branch last commit" />
