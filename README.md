@@ -21,44 +21,52 @@
   <samp>Systems Administrator · L2 Team Lead · RHCSA / RHEL 10 learner</samp>
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center"><strong>Role</strong><br />Systems Administrator<br />L2 Team Lead</td>
+    <td align="center"><strong>Current track</strong><br />RHCSA<br />RHEL 10 / EX200</td>
+    <td align="center"><strong>Based in</strong><br />Arlon, Belgium<br />Deloitte Luxembourg</td>
+  </tr>
+</table>
+
 <br />
 
-## Hello, I’m Gabin 👋
+## Systems administration with a reliability mindset
 
-I work at the intersection of infrastructure, support and operational discipline. As a **Systems Administrator and L2 Team Lead at Deloitte Luxembourg**, I focus on making technology easier to operate: clearer support paths, reliable diagnosis and practical documentation.
+I am Gabin Longoni, a **Systems Administrator and L2 Team Lead at Deloitte Luxembourg**. I work where infrastructure, support and operational discipline meet: reducing noise in troubleshooting, making diagnosis repeatable and turning hard-won knowledge into practical runbooks.
 
 ```text
 observe  →  understand  →  automate  →  document  →  improve
 ```
 
-My current learning focus is the **RHCSA on RHEL 10**. I train through a structured lab programme built around repetition, troubleshooting and proof: make the change, verify the state, reboot when it matters, and document what happened.
+My current goal is the **RHCSA on RHEL 10**. I train through a local programme built around deliberate labs, failure analysis and proof after reboot. The objective is not to memorise commands: it is to understand system state and restore it safely.
 
 ## Current focus - RHCSA / RHEL 10
 
-The current track covers the fundamentals that make a Linux administrator dependable in production:
+My practice covers the fundamentals that make a Linux administrator dependable in production:
 
 - shell, files, permissions, users, groups, `sudo`, RPM and DNF;
 - processes, `systemd`, journals, scheduling and time synchronisation;
 - NetworkManager, SSH, `firewalld`, storage, LVM, XFS, swap and `/etc/fstab`;
 - NFS, `autofs`, SELinux, boot recovery and multi-layer troubleshooting.
 
-The goal is not to collect commands: it is to build a repeatable diagnostic method and be able to prove that a system remains correct after a reboot.
+The measure of progress is simple: make the change, verify the state, reboot when it matters and explain the result clearly.
 
-## What I work on
+## How I contribute
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🧭 Reliability & support</h3>
-      <p>L2 troubleshooting, incident analysis, escalation paths, knowledge transfer and runbooks that help teams operate with confidence.</p>
+      <h3>🧭 Operational reliability</h3>
+      <p>L2 troubleshooting, incident analysis, escalation paths and runbooks that help teams operate with less friction.</p>
     </td>
     <td width="33%" valign="top">
       <h3>🐧 RHEL administration</h3>
       <p>Linux fundamentals, service lifecycle, networking, storage, access control, SELinux and recovery under pressure.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🧪 Lab discipline</h3>
-      <p>Reproducible exercises, deliberate failure, evidence after reboot and documentation that another administrator can follow.</p>
+      <h3>🧪 Knowledge that scales</h3>
+      <p>Reproducible exercises, deliberate failure and documentation that another administrator can follow.</p>
     </td>
   </tr>
 </table>
@@ -69,7 +77,7 @@ The goal is not to collect commands: it is to build a repeatable diagnostic meth
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Opperiesen/Branch">Branch</a></h3>
-      <p>A native macOS Git workspace designed to make the graph, changes, diff and recovery state easier to understand.</p>
+      <p>A native macOS Git workspace that makes the graph, changes, diff and recovery state easier to understand.</p>
       <p>
         <img src="https://img.shields.io/badge/Swift_6-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift 6" />
         <img src="https://img.shields.io/badge/SwiftUI-2563eb?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
@@ -78,7 +86,7 @@ The goal is not to collect commands: it is to build a repeatable diagnostic meth
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Opperiesen/EmuOS">EmuOS</a></h3>
-      <p>A polished retro game launcher for Android, built around a console-like, controller-first experience.</p>
+      <p>A controller-first Android launcher for retro games, built around a focused console-like experience.</p>
       <p>
         <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=0f172a" alt="Android" />
         <img src="https://img.shields.io/badge/UX%20focus-controller--first-14b8a6?style=flat-square" alt="Controller-first UX" />
@@ -88,7 +96,7 @@ The goal is not to collect commands: it is to build a repeatable diagnostic meth
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Opperiesen/opperiesen-pages">Notes & experiments</a></h3>
-      <p>A Hugo-based space for technical learnings, projects, reflections, recommendations and reproducible experiments.</p>
+      <p>A Hugo space for technical learnings, projects, reflections, recommendations and reproducible experiments.</p>
       <p>
         <img src="https://img.shields.io/badge/Hugo-ff4088?style=flat-square&logo=hugo&logoColor=white" alt="Hugo" />
         <img src="https://img.shields.io/badge/documentation-first-0f172a?style=flat-square" alt="Documentation first" />
@@ -96,7 +104,7 @@ The goal is not to collect commands: it is to build a repeatable diagnostic meth
     </td>
     <td width="50%" valign="top">
       <h3>📚 RHCSA / RHEL 10</h3>
-      <p>Current learning track: a local-first programme of 24 courses, 26 labs and exam simulations for the EX200 objectives.</p>
+      <p>A local-first learning track with deliberate labs, repetition and exam simulations aligned to the EX200 objectives.</p>
       <p>
         <img src="https://img.shields.io/badge/RHEL_10-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="Red Hat Enterprise Linux 10" />
         <img src="https://img.shields.io/badge/RHCSA-learning-f59e0b?style=flat-square" alt="RHCSA learning" />
@@ -136,14 +144,18 @@ The goal is not to collect commands: it is to build a repeatable diagnostic meth
 ## Principles
 
 - Prefer observable, reversible automation over cleverness.
-- Keep safety boundaries explicit, especially around system and Git operations.
-- Write the explanation while building the solution.
-- Leave every project easier to understand than it was found.
+- Make safety boundaries explicit, especially around system and Git operations.
+- Document decisions while building the solution.
+- Leave every system and repository easier to understand.
+
+## Connect
+
+If you are working on Linux operations, support tooling or practical automation, [connect with me on LinkedIn](https://www.linkedin.com/in/gabinlongoni/).
 
 <br />
 
 <div align="center">
   <a href="https://github.com/Opperiesen">View my repositories →</a>
   <br /><br />
-  <sub>Built with Markdown, Git and a healthy respect for reproducibility.</sub>
+  <sub>Built with Markdown, Git and respect for reproducibility.</sub>
 </div>
