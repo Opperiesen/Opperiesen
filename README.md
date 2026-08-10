@@ -57,15 +57,15 @@ The measure of progress is simple: make the change, verify the state, reboot whe
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🧭 Operational reliability</h3>
+      <h3>Operational reliability</h3>
       <p>L2 troubleshooting, incident analysis, escalation paths and runbooks that help teams operate with less friction.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🐧 RHEL administration</h3>
+      <h3>RHEL administration</h3>
       <p>Linux fundamentals, service lifecycle, networking, storage, access control, SELinux and recovery under pressure.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🧪 Knowledge that scales</h3>
+      <h3>Knowledge that scales</h3>
       <p>Reproducible exercises, deliberate failure and documentation that another administrator can follow.</p>
     </td>
   </tr>
@@ -103,7 +103,7 @@ The measure of progress is simple: make the change, verify the state, reboot whe
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 RHCSA / RHEL 10</h3>
+      <h3>RHCSA / RHEL 10</h3>
       <p>A local-first learning track with deliberate labs, repetition and exam simulations aligned to the EX200 objectives.</p>
       <p>
         <img src="https://img.shields.io/badge/RHEL_10-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="Red Hat Enterprise Linux 10" />
